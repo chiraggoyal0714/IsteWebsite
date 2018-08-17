@@ -1,139 +1,139 @@
 
 .scrollToTop{
-	background-color: #2da2c8;
+	background-color: #D9A269;
 }
 .scrollToTop:hover,.scrollToTop:focus{
   background-color: #fff;
-  color: #2da2c8;
-  border: 1px solid #2da2c8;
+  color: #D9A269;
+  border: 1px solid #D9A269;
 }
 .navbar-brand > span {
-  color: #2da2c8;
+  color: #D9A269;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { 
-  color: #2da2c8;
+  color: #D9A269;
 }
 .navbar-default .navbar-nav > li > a:hover{
-  color: #2da2c8;
+  color: #D9A269;
 }
 .slider_btn:hover,.slider_btn:focus{
-	border-color:#2da2c8;
-	color: #2da2c8;
+	border-color: #D9A269;
+	color: #D9A269;
 }
 .slides-navigation a::before,
 .slides-navigation a::after,
 .slides-navigation .icon-wrap::before,
 .slides-navigation .icon-wrap::after {
-	background: #2da2c8;
+	background: #D9A269;
 }
 .slides-pagination a {
-  border: 2px solid #2da2c8;
+  border: 2px solid #D9A269;
 }
 .heading h2 {
-  border-bottom: 11px solid #2da2c8;
+  border-bottom: 11px solid #D9A269;
 }
 .panel-title a:hover{
-	color: #2da2c8;		
+	color: #D9A269;
 }
 .panel-title a span{
-  color: #2da2c8;		
+  color: #D9A269;
 }
 .service_icon{
-	background-color: #2da2c8;
+	background-color: #D9A269;
 }
 
 .single_service:hover .service_icon{	
-	color: #2da2c8;
-	border: 2px solid #2da2c8;
+	color: #D9A269;
+	border: 2px solid #D9A269;
 	background-color: #fff;
 }
 .single_service:hover .service_title{
-	color: #2da2c8;
+	color: #D9A269;
 }
 .single_service > .service_title:after {
-  background-color: #2da2c8;
+  background-color: #D9A269;
 }
 .heading h3 {
-  border-bottom: 5px solid #2da2c8;
+  border-bottom: 5px solid #D9A269;
 }
 .fa-2x {
-  color: #2da2c8;
+  color: #D9A269;
 }
 .single_team span {
-  color: #2da2c8;
+  color: #D9A269;
 }
 .team_social a:hover,.team_social a:focus{
-	background-color: #2da2c8;
+	background-color: #D9A269;
 }
 .slick-prev, .slick-next {
-  background-color: #2da2c8;
+  background-color: #D9A269;
 }
 .single_price .price {
-  background-color: #2da2c8; 
+  background-color: #D9A269;
 }
 .price_btn {
-  background-color: #2da2c8;
-  border: 1px solid #2da2c8;
+  background-color: #D9A269;
+  border: 1px solid #D9A269;
 }
 .price_btn:hover{
-	color: #2da2c8 !important;
+	color: #D9A269 !important;
 }
 .business_price {
-  background-color: #2da2c8 !important;
+  background-color: #D9A269 !important;
 }
 .business_price .price_btn{	
-	color: #2da2c8 !important;
+	color: #D9A269 !important;
 }
 .post_commentbox a:hover, .post_commentbox span:hover{
-	color: #2da2c8;
+	color: #D9A269;
 }
 .read_more{
-	color: #2da2c8;	
+	color: #D9A269;
 }
 .read_more:hover,.read_more:focus{
-	border-bottom: 2px solid #2da2c8;
+	border-bottom: 2px solid #D9A269;
 }
 .testi_media .media-body span {
-  color: #2da2c8;
+  color: #D9A269;
 }
 .testimonial_slider .slick-dots li.slick-active button{
-  background: none repeat scroll 0 0 #2da2c8;  
+  background: none repeat scroll 0 0 #D9A269;
 }
 .submit_btn {
-  background-color: #2da2c8;
+  background-color: #D9A269;
 }
 .submit_btn:hover{
-	color: #2da2c8;
-	border-color: #2da2c8;
+	color: #D9A269;
+	border-color: #D9A269;
 }
 .form-control:focus {
-  border-color: #2da2c8;
+  border-color: #D9A269;
 }
 .wagwep-container ul#portfolio-filter a:hover{
-  background-color: #2da2c8;
+  background-color: #D9A269;
 }
 .wagwep-container ul#portfolio-filter li.current a {
-  background:#2da2c8;  
+  background: #D9A269;
 }
 .single_contact_feaured > i {
-  color: #2da2c8;
+  color: #D9A269;
 }
 .subscr_btn {
-  background-color: #2da2c8;
+  background-color: #D9A269;
 }
 .footer_left > p a {
-  color: #2da2c8;
+  color: #D9A269;
   font-weight: bold;
 }
 .social_nav li a:hover{
-  color: #2da2c8;
-  border-color: #2da2c8; 
+  color: #D9A269;
+  border-color: #D9A269;
 }
 .panel-default .in{
-  border-color: #2da2c8;
-  border-left: 5px solid #2da2c8;
+  border-color: #D9A269;
+  border-left: 5px solid #D9A269;
 }
 .about_slider .slick-dots li.slick-active button:before {
-  color: #2da2c8;
+  color: #D9A269;
 }
